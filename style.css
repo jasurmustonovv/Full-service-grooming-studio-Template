@@ -1,0 +1,112 @@
+/*Whitebox*/
+.whitebox {
+    width: 101%;
+    margin-top: -250px;
+    margin-left: -8px;
+    height: 70px;
+    background-color: #f2f2f2;
+    position: fixed;
+}
+
+span {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 45%;
+    margin-left: 1440px;
+    padding-top: 20px;
+    position: absolute;
+}
+
+.span1 {
+    margin-left: 1px;
+    font-weight: bold;
+    opacity: 70%;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+/* /Whitebox*/
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://www.shutterstock.com/image-photo/barber-applies-shaving-foam-brush-260nw-2460798771.jpg");
+}
+h1{
+    color:white;
+    text-align: center;
+    margin-top: 250px;
+    font-size: 70px;
+    font-family: Montserrat, sans-serif;
+
+}
+h3{
+    color:white;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+
+}
+.btn{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.btn_01{
+    width: 190px;
+    height: 55px;
+    border-radius: 5px;
+    margin-left: -30px;
+    border: none;
+    font-weight: bold;
+    transition: all 0.2s ease-in;
+    cursor: pointer;
+}
+.btn_01:hover{
+    
+    background-color:rgb(89, 180, 183);
+}
+.btn_02:hover{
+    border: none;
+       
+    background-color:rgb(89, 180, 183);
+ 
+}
+.btn_02{
+    margin-left:15px;
+    width: 190px;
+    height: 55px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+    font-size: medium;
+    background-color: rgba(255, 255, 255, 0);
+
+
+}
+
+.blackbox{
+    position: relative;
+    margin: 0 auto;
+    top: 150px;
+    left: -7px;
+    width: 101%;
+    height: 100px;
+    background-color: #333333;
+}
+p{
+    text-align: center;
+    top: 40px;
+    position: relative;
+    color: white;
+}
+a{
+    color: rgb(75, 132, 185);
+}
