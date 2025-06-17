@@ -88,7 +88,8 @@ h3{
     font-weight: bold;
     font-size: medium;
     background-color: rgba(255, 255, 255, 0);
-
+    transition: all 0.2s ease-in;
+    cursor: pointer;
 
 }
 
